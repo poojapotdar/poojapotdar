@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @poojapotdar
 - 👀 I’m interested in learning new things regarding technologies
-- 🌱 I’m currently learning node.js
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning node.js, react js
+
 
 <!---
 poojapotdar/poojapotdar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
